@@ -1,0 +1,32 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+dist
+coverage
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Environment files
+.env
+.env.* 
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Docker files themselves
+Dockerfile
+docker-compose.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
